@@ -90,3 +90,19 @@ yelp:
   name: "Yelp"
   baseURL: "https://{{ site.author.yelp }}.yelp.com"
   icon: "fa-yelp"
+
+# custom entries
+zkb:
+  name: "zKillboad"
+  baseURL: ""
+  icon: "fa-rocket"
+
+discord:
+  name: "Discord"
+  baseURL: ""
+  icon: "fa-comments"
+
+dotlan:
+  name: "Dotlan"
+  baseURL: ""
+  icon: "fa-map"
