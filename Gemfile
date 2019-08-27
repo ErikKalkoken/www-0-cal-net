@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem "jekyll"
+gem 'html-proofer'
 
 group :jekyll_plugins do
   gem "jekyll-sitemap"  
@@ -14,5 +15,3 @@ end
 # Please add the following to your Gemfile to avoid polling for changes:
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 
-# needed for travis CI tests
-gem "html-proofer"
