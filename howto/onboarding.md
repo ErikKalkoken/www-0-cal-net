@@ -104,7 +104,7 @@ To open the Discord web app you can click here: [https://discordapp.com](https:/
 ### Activate Discord
 {:.no_toc}
 
-Please make sure you are logged into Alliance Auth. Then go to Services and click the amber button with the checkmark next to Discord.
+Please make sure you are logged into Alliance Auth. Then go to Services and click the amber button with the check-mark next to Discord.
 
 ![Discord activate](https://i.imgur.com/kKAFckZ.png)
 
