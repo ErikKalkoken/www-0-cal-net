@@ -11,7 +11,7 @@ description: Same Great Taste alliance
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "https://www.0-cal.net"
+# url: "https://www.0-cal.net"
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -21,7 +21,8 @@ url: "https://www.0-cal.net"
 # List of links in the navigation bar
 navbar-links:
   About us: "about"
-  How To: "howto"  
+  How To: 
+    - Connect to alliance services: "howto/onboarding"  
   Alliance Auth: "https://auth.0-cal.net"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -49,7 +50,7 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-# navbar-img: "/img/bgimage.png"
+# navbar-img: "/img/background.jpg"
 # footer-img: "/img/bgimage.png"
 # page-img: "/img/bgimage.png"
 
@@ -94,7 +95,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "www.0-cal.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "www.0-cal.net"
 
 # --- Web Statistics Section --- #
 
@@ -161,7 +162,6 @@ timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
 
 kramdown:
   input: GFM
@@ -250,8 +250,7 @@ prose:
           label: "Publish"
           help: "Check to publish post, uncheck to hide."
 
-plugins:
-  - jekyll-paginate
+plugins:  
   - jekyll-sitemap
 
 # Beautiful Jekyll / Dean Attali
