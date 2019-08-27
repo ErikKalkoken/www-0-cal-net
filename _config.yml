@@ -11,10 +11,10 @@ description: Same Great Taste alliance
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-# url: "https://www.0-cal.net"
+url: "https://www.0-cal.net"
 
 # baseurl should be an empty string
-#baseurl: ""
+# baseurl: ""
 
 # --- Navigation bar options --- #
 
@@ -188,15 +188,7 @@ defaults:
 link-tags: true
 
 # Exclude these files from production site
-exclude:
-  - CHANGELOG.md
-  - CNAME
-  - Dockerfile
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - Vagrantfile
+exclude: [README.md, vendor]
 
 # prose.io config
 prose:
