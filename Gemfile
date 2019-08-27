@@ -7,7 +7,9 @@ group :jekyll_plugins do
 end
 
 # enable tzinfo-data for local build
-gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
+platform :mswin, :mingw, :x64_mingw do
+    gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
+end
 
 # Please add the following to your Gemfile to avoid polling for changes:
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
