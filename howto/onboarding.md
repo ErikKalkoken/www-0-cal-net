@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Alliance Services
-subtitle: How to connect to our services
+title: IT Services
+subtitle: How to connect to alliance IT services
 ---
 
 ## Contents
@@ -12,27 +12,22 @@ subtitle: How to connect to our services
 
 ## Introduction
 
-Same Great Taste is offering a set of services to our members including a secure Discord server, a secure Teamspeak server and web apps.
+Same Great Taste is offering a set of IT services to our members including a secure Discord server, a secure Teamspeak server and web apps.
 
-To use our alliance services you first need to authenticate your main character on our secure website called **Alliance Auth**. This website helps us keep track of your accounts across all services (e.g. Discord, Teamspeak) and is also the place where you find all of our alliance apps (e.g. to request blue standings for your alts).
+To use our IT services you first need to register your main character on our secure website called **Alliance Auth**. This website helps us synchronize our member's accounts and their roles across all IT services (e.g. Discord, Teamspeak). Alliance Auth is also our web portal, where you find all alliance apps. (e.g. to request blue standings for your alts).
 
 This page provides you a step-by-step instructions on how to connect to our alliance services for the first time.
 
 Please note that you have to go through these steps one time only. Once completed you can login to all services directly.
 
 **Consent to character data access** \\
-By using our Alliance Services you are giving your explicit consent that our services have full read access to your characters data. This is required to ensure a high level of security and enable important features in our alliance apps.
+By using our Alliance Services you are giving your explicit consent that our services have full read access to your characters data. This is required to ensure a high level of security for the alliance and to enable important features in our alliance apps.
 {:.alert}
 {:.alert-warning}
 
 ## Connect to Alliance Auth
 
-Alliance Auth is our central website for authenticating your characters and connecting to other alliance services. Please make sure to complete this part before you try connecting to any of our other services.
-
-**About authentication** \\
-Authentication means that you prove to us that you are really you. You do this by logging into Alliance Auth with you Eve account and connecting all your other services accounts (e.g. Discord, Teamspeak) through Alliance Auth.
-{:.alert}
-{:.alert-info}
+Alliance Auth is our central website for registering your characters and connecting to other alliance services. Please make sure to complete this part before you try connecting to any of our other services.
 
 Please follow these steps to connect to Alliance Auth:
 
