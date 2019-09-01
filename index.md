@@ -7,4 +7,4 @@ use-site-title: true
 
 For any inquiries join our public channel on [Discord](https://discord.gg/ThSuQbe).
 
-[![Chat on Discord](https://img.shields.io/discord/534874566192005120.svg)](https://discord.gg/ThSuQbe)  ![Members](https://img.shields.io/badge/Members-80-blue) ![ISK destroyed](https://img.shields.io/badge/ISK%20destroyed-1.5t-success) ![Efficency](https://img.shields.io/badge/ISK%20Eff.%25-94-success)
+[![Chat on Discord](https://img.shields.io/discord/534874566192005120.svg)](https://discord.gg/ThSuQbe)  ![memberCount](https://img.shields.io/endpoint?url=https://eve-shields.kalkoken.net/zkb-stats/alliance/99009333/memberCount) ![activePvpChars](https://img.shields.io/endpoint?url=https://eve-shields.kalkoken.net/zkb-stats/alliance/99009333/activePvpChars) ![iskDestroyed](https://img.shields.io/endpoint?url=https://eve-shields.kalkoken.net/zkb-stats/alliance/99009333/iskDestroyed) ![iskEff](https://img.shields.io/endpoint?url=https://eve-shields.kalkoken.net/zkb-stats/alliance/99009333/iskEff) ![dangerRatio](https://img.shields.io/endpoint?url=https://eve-shields.kalkoken.net/zkb-stats/alliance/99009333/dangerRatio)
