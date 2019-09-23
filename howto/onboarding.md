@@ -12,18 +12,13 @@ subtitle: How to connect to alliance IT services
 
 ## Introduction
 
-Same Great Taste is offering a set of IT services to our members including a secure Discord server, a secure Teamspeak server and web apps.
+Same Great Taste is offering a set of IT services to our members and friends including a secure Discord server, a secure Teamspeak server and web apps.
 
-To use our IT services you first need to register your main character on our secure website called **Alliance Auth**. This website helps us synchronize our member's accounts and their roles across all IT services (e.g. Discord, Teamspeak). Alliance Auth is also our web portal, where you find all alliance apps. (e.g. to request blue standings for your alts).
+To use our IT services you first need to register your main character on a secure website called **Alliance Auth** and complete the onboarding process. After that you get roles on all our IT services (e.g. Discord, Teamspeak) and access to our alliance apps (e.g. to request blue standing for your characters).
 
 This page provides you a step-by-step instructions on how to connect to our alliance services for the first time.
 
-Please note that you have to go through these steps one time only. Once completed you can login to all services directly.
-
-**Consent to character data access** \\
-By using our Alliance Services you are giving your explicit consent that our services have full read access to your characters data. This is required to ensure a high level of security for the alliance and to enable important features in our alliance apps.
-{:.alert}
-{:.alert-warning}
+Please note that you have to go through these steps only one time. Once completed you can login to all services directly.
 
 ## Connect to Alliance Auth
 
@@ -38,15 +33,15 @@ Open you web browser and go to: [https://auth.0-cal.net/](https://auth.0-cal.net
 
 You should see the login screen:
 
-![Auth Login Screen](https://i.imgur.com/bTnwc5n.jpg)
+![Auth Login Screen](/img/auth01.jpg)
 
 Click the login button and login with your main Eve account.
 
-![SSO Login Screen](https://i.imgur.com/YEggBnh.jpg)
+![SSO Login Screen](/img/auth02.jpg)
 
 You can now select your character and authorize our service with the requested permissions.
 
-![SSO Authorize](https://i.imgur.com/HSi9XX5.jpg)
+![SSO Authorize](/img/auth03.jpg)
 
 Make sure to select your **main** character and then scroll down and click on **AUTHORIZE**.
 
@@ -55,11 +50,11 @@ Make sure to select your **main** character and then scroll down and click on **
 
 Next you will be asked to provide an email address. This is another security measure and also required for some of our services to work. Please make sure that you can currently access the mailbox before providing the email address.
 
-![Auth Enter Email](https://i.imgur.com/FUcEGqY.jpg)
+![Auth Enter Email](/img/auth04.jpg)
 
 Enter your email address and click submit.
 
-![Auth Email Sent](https://i.imgur.com/iGPlv21.jpg)
+![Auth Email Sent](/img/auth04.jpg)
 
 The service will now sent a confirmation mail to email address you have provided. Please open your mailbox and click the activation link in the confirmation mail to proceed.
 
@@ -73,16 +68,21 @@ Note that is can take up to 15 minutes for the mail to arrive in your mailbox. I
 
 The website will now inform you that it confirmed your email address and ask you to log in again with your Eve Online account. Please choose the **same Eve account** and **same character** as before and again click on **AUTHORIZE**.
 
-![Auth Email Confirmed](https://i.imgur.com/r5bN51I.jpg)
+![Auth Email Confirmed](/img/auth06.jpg)
 
 ### Completed
 {:.no_toc}
 
 You should now see the dashboard of Alliance Auth with your main character, which should look something like this:
 
-![Auth Dashboard](https://i.imgur.com/LLvnA5W.png)
+![Auth Dashboard](/img/auth07.png)
 
 Congratulations! You have successfully logged into Alliance Auth and authorized your main character.
+
+**Friends with no access** \\
+If you are requesting access as a friend and don't see the services menu after login than you have not yet been cleared for access. Please notify a diplo or an admin on our Discord about your issue.
+{:.alert}
+{:.alert-info}
 
 Next we will connect your Discord account.
 
@@ -101,21 +101,21 @@ To open the Discord web app you can click here: [https://discordapp.com](https:/
 
 Please make sure you are logged into Alliance Auth. Then go to Services and click the amber button with the check-mark next to Discord.
 
-![Discord activate](https://i.imgur.com/kKAFckZ.png)
+![Discord activate](/img/discord01.png)
 
 ### Authorize Discord app
 {:.no_toc}
 
 You will be asked to authorize our Discord app Alliance Auth. Please click on **Authorize** to proceed.
 
-![Discord activate](https://i.imgur.com/nrY3O3y.png)
+![Discord activate](/img/discord02.png)
 
 ### Completed
 {:.no_toc}
 
 When everything went well you will be redirected to the services page, which should look like this:
 
-![Discord activated](https://i.imgur.com/aICVrCE.png)
+![Discord activated](/img/discord03.png)
 
 Thats it. You should now see private channels on our alliance Discord.
 
@@ -146,32 +146,32 @@ To transfer your Teamspeak identity from one client to another follow the instru
 
 Please make sure you are logged into Alliance Auth. Then go to Services and click the amber button with the check-mark next to Teamspeak 3.
 
-![Discord activated](https://i.imgur.com/p8B2FBe.png)
+![Discord activated](/img/teamspeak01.png)
 
 ### Join server
 {:.no_toc}
 
 Next you are asked to verify your Teamspeak identity. Click on **Join Server**.
 
-![Discord activated](https://i.imgur.com/DmK0Kz0.png)
+![Discord activated](/img/teamspeak02.png)
 
 Your Teamspeak desktop client will open and you will be connected to the alliance Teamspeak server. You should now see your main character with our alliance tag like shown in this screen shot:
 
-![Teamspeak started](https://i.imgur.com/OOEX6ie.png)
+![Teamspeak started](/img/teamspeak03.png)
 
 ### Receive roles
 {:.no_toc}
 
 Finally, go back to the Alliance Auth web page on your browser and click on **Continue** like shown below:
 
-![Discord activated](https://i.imgur.com/DmK0Kz0.png)
+![Discord activated](/img/teamspeak04.png)
 
 ### Completed
 {:.no_toc}
 
 You will now have received your Teamspeak roles and should see a screen like this:
 
-![Discord activated](https://i.imgur.com/P9zBeP7.png)
+![Discord activated](/img/teamspeak05.png)
 
 You have successfully connected your main to Teamspeak. Nicely done!
 
