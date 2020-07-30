@@ -1,17 +1,17 @@
 # --- General options --- #
 
 # Name of website
-title: Same Great Taste
+title: The Congregation
 
 # Short description of your site
-description: Same Great Taste alliance
+description: The Congregation corporation
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "https://www.0-cal.net"
+url: "https://www.rabis.cyou"
 
 # baseurl should be an empty string
 # baseurl: ""
@@ -23,12 +23,12 @@ navbar-links:
   About us: "about"
   How To: 
     - Connect to IT services: "howto/onboarding"
-    - Request alliance standings: "howto/standingsrequests"
-  Alliance Auth: "https://auth.0-cal.net"
+    - Request standings: "howto/standingsrequests"
+  RABIS Auth: "https://auth.0-cal.net"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/alliance-logo.png"
+avatar: "/img/RABIS_512.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -60,7 +60,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Same Great Taste alliance
+  name: The Congregation
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -68,7 +68,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
 #  rss: false
-#  email: "info@0-cal.net"
+#  email: "info@rabis.cyou"
 #  facebook: deanattali
 #  github: daattali
 #  twitter: daattali
@@ -84,8 +84,8 @@ social-network-links:
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
-  zkb: https://zkillboard.com/alliance/99009333/
-  dotlan: http://evemaps.dotlan.net/alliance/Same%20Great%20Taste
+  zkb: https://zkillboard.com/corporation/98267621/
+  dotlan: https://evemaps.dotlan.net/corp/The%20Congregation
   discord: https://discord.gg/ThSuQbe
 
 # Select which share links to show in posts
@@ -96,7 +96,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "www.0-cal.net"
+url-pretty: "www.rabis.cyou"
 
 # --- Web Statistics Section --- #
 
