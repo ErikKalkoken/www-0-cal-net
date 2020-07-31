@@ -14,7 +14,7 @@ subtitle: How to connect to RABIS IT services
 
 Same Great Taste is offering a set of IT services to our members and friends including a secure Discord server, a secure Teamspeak server and web apps.
 
-To use our IT services you first need to register your main character on a secure website called **RABIS Auth** and complete the onboarding process. After that you get roles on all our IT services (e.g. Discord, Teamspeak) and access to our apps (e.g. to request blue standing for your characters).
+To use our IT services you first need to register your main character on a secure website called **RABIS Auth** and complete the onboarding process. After that you get roles on all our IT services (e.g. Discord, Mumble) and access to our apps (e.g. to request blue standing for your characters).
 
 This page provides you a step-by-step instructions on how to connect to our IT services for the first time.
 
@@ -131,51 +131,80 @@ Please note that you can login to Discord directly and without RABIS Auth once y
 {:.alert}
 {:.alert-info}
 
-## Connect to Teamspeak
+## Connect to Mumble
 
-To get access to corporation roles on Teamspeak you need to connect your main on RABIS Auth to your Teamspeak client.
+We use [Mumble](https://www.mumble.info/) for our voice services. To get access to our Mumble server you need to create a Mumble account through the RABIS Auth website.
 
-**Using Teamspeak on multiple devices** \\
-If you use Teamspeak on multiple devices (e.g. one Teamspeak client on your PC at home, one at work) please make sure to use the **same** Teamspeak identity on all clients. Since RABIS Auth can only connect your main to one identity you would otherwise only have corporation roles on one of your clients.\\
-To transfer your Teamspeak identity from one client to another follow the instructions provided on [this page](https://tserverhq.com/clients/knowledgebase/89/How-do-I-transfer-my-TeamSpeak-3-Identity-to-another-computer.html).
+**Mumble access for friends** \\
+Our Mumble server is open for all friends and colleagues of The Congregation and does not require any special roles. The only requirement is to create the account through the RABIS Auth website as described in this section.
 {:.alert}
 {:.alert-info}
 
-### Activate Teamspeak
+### Download client
 {:.no_toc}
 
-Please make sure you are logged into RABIS Auth. Then go to Services and click the amber button with the check-mark next to Teamspeak 3.
+First, please download and install the latest Mumble client from [here](https://www.mumble.info/downloads/) on your device.
 
-![Discord activated](/img/teamspeak01.png)
-
-### Join server
+### Create account
 {:.no_toc}
 
-Next you are asked to verify your Teamspeak identity. Click on **Join Server**.
+Next, log into the [RABIS Auth website](https://auth.0-cal.net). If this is your first time logging into Auth it will prompt you to create an account. Please see the section [Connect to RABIS Auth](#connect-to-rabis-auth) for details on how to create an Auth account.
 
-![Discord activated](/img/teamspeak02.png)
+Once you are logged into Auth, please go to the Services page. You should now see a page like this:
 
-Your Teamspeak desktop client will open and you will be connected to the Teamspeak server. You should now see your main character with our corporation tag like shown in this screen shot:
+![Mumble service](/img/mumble01.png)
 
-![Teamspeak started](/img/teamspeak03.png)
+ To request a Mumble account for you click the amber button with the check-mark for the Mumble service.
 
-### Receive roles
+### Confirm credentials
 {:.no_toc}
 
-Finally, go back to the RABIS Auth web page on your browser and click on **Continue** like shown below:
+Auth will now show you your new Mumble account name and a generated password.
 
-![Discord activated](/img/teamspeak04.png)
+![Credentials](/img/mumble02.png)
 
-### Completed
+Before continuing please make sure to save your password - e.g. by copying it to the clipboard or on a notepad - you will need it again later in the process.
+
+To create your account and proceed to the next step click on **Continue**.
+
+### Connecting to the server
 {:.no_toc}
 
-You will now have received your Teamspeak roles and should see a screen like this:
+Now should now see a green arrow next to the Mumble service.
 
-![Discord activated](/img/teamspeak05.png)
+![Connecting](/img/mumble03.png)
 
-You have successfully connected your main to Teamspeak. Nicely done!
+Click the green arrow to connect to the Mumble server.
 
-**Login to Teamspeak** \\
-Please note that you can login to Teamspeak directly and without RABIS Auth once you have successfully connected your Teamspeak ID with your main on RABIS Auth.
-{:.alert}
-{:.alert-info}
+Your Mumble client will now open and try to connect you to the Mumble server.
+
+![Client](/img/mumble04.png)
+
+If this is the first time you are connecting to the RABIS Mumble server you might be prompted to confirm the server certificate. This is normal. Just click on "Yes" to continue.
+
+### Enter your password
+{:.no_toc}
+
+Next you will get an error message: "Wrong certificate or password".
+
+![Wrong certificate or password](/img/mumble05.png)
+
+This also is normal. Just enter the password, which you have saved earlier, and click OK to continue.
+
+### Login complete
+{:.no_toc}
+
+You should now be connected to the Mumble server and find yourself in the Lobby:
+
+![Connected](/img/mumble06.png)
+
+### Saving connection
+{:.no_toc}
+
+Last, but not least please save your new connection to the Mumble server as favorite. This will allow you to connect to Mumble directly from your client in the future and without having to re-enter your password or go through Auth.
+
+To save the connection follow this path in Mumble client:
+
+Server -> Connect -> Add New -> Fill -> OK
+
+Congratulations! You have successfully completed this section of the guide.
