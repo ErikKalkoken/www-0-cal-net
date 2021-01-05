@@ -29,7 +29,7 @@ Please follow these steps to connect to RABIS Auth:
 ### Login with your Eve account
 {:.no_toc}
 
-Open you web browser and go to: [https://auth.0-cal.net/](https://auth.0-cal.net/)
+Open you web browser and go to: [https://auth.rabis.cyou/](https://auth.rabis.cyou/)
 
 You should see the login screen:
 
@@ -148,7 +148,7 @@ First, please download and install the latest Mumble client from [here](https://
 ### Create account
 {:.no_toc}
 
-Next, log into the [RABIS Auth website](https://auth.0-cal.net). If this is your first time logging into Auth it will prompt you to create an account. Please see the section [Connect to RABIS Auth](#connect-to-rabis-auth) for details on how to create an Auth account.
+Next, log into the [RABIS Auth website](https://auth.rabis.cyou). If this is your first time logging into Auth it will prompt you to create an account. Please see the section [Connect to RABIS Auth](#connect-to-rabis-auth) for details on how to create an Auth account.
 
 Once you are logged into Auth, please go to the Services page. You should now see a page like this:
 
